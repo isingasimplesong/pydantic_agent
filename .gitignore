@@ -9,3 +9,4 @@ logs/
 *.key
 .dockerignore
 *.sqlite3
+CLAUDE.md
