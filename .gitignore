@@ -10,3 +10,4 @@ logs/
 .dockerignore
 *.sqlite3
 CLAUDE.md
+CLAUDE.md
