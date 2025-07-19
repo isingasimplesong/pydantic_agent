@@ -1,0 +1,12 @@
+[project]
+name = "pydantic-agent"
+version = "0.1.0"
+description = "My first pydantic.ai agent"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "pydantic-ai[logfire]>=0.4.4",
+    "requests>=2.32.4",
+    "uvicorn>=0.35.0",
+]
