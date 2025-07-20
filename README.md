@@ -1,6 +1,7 @@
 # pydantic_agent
 
-This project uses [uv](https://github.com/astral-sh/uv#installation) for Python package management:
+This project uses [uv](https://github.com/astral-sh/uv#installation)
+for Python package management:
 
 - **Install dependencies**: `uv sync`
 - **Run main chat agent**: `uv run python chat_agent.py`
